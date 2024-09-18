@@ -1,0 +1,10 @@
+{
+    "task1": {
+        "task": "Fight",
+        "done": false
+    },
+    "task2": {
+        "task": "Swim",
+        "done": true
+    }
+}
