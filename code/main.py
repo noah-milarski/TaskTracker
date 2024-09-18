@@ -1,4 +1,4 @@
-from json.code.task import Task
+from task import Task
 
 def main():
     task1 = Task('Run')
