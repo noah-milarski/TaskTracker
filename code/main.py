@@ -1,6 +1,4 @@
-from asyncio import all_tasks
-
-from task import Task
+from json.code.task import Task
 
 def main():
     task1 = Task('Run')

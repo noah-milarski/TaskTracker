@@ -8,7 +8,7 @@ class Task:
 
     task_counter = 0
     list_of_all_tasks = []
-    file_path = 'json/task.json'
+    file_path = '../json/task.json'
 
     def __init__(self, name):
         """
